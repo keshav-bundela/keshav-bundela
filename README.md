@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Keshav Bundela
 - 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Python for data analysis
+- 🌱 I’m currently learning Python, Power BI for data analysis
 - 📫 You can reach me through Linkedin - https://www.linkedin.com/in/keshav-bundela/
 
 <!---
